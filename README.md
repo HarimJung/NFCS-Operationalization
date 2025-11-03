@@ -10,7 +10,7 @@ The design shifts the focus from theoretical knowledge to **practical decision-m
 
 ### 🎥 Core Interaction Demo (Resource Allocation)
 
-[!([https://img.youtube.com/vi/YOUTUBE_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_ID_HERE](https://youtu.be/S3nW9i0-h7Y))
+[![NFCS Resource Allocation Dashboard Demonstration](https://img.youtube.com/vi/S3nW9i0-h7Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=S3nW9i0-h7Y)
 
 *Click the image above to view the 45-second demo of the Interactive Resource Allocation Dashboard.*
 
