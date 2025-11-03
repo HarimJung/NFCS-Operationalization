@@ -8,6 +8,14 @@ The design shifts the focus from theoretical knowledge to **practical decision-m
 
 ---
 
+### 🎥 Core Interaction Demo (Resource Allocation)
+
+[!([https://img.youtube.com/vi/YOUTUBE_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_ID_HERE](https://youtu.be/S3nW9i0-h7Y))
+
+*Click the image above to view the 45-second demo of the Interactive Resource Allocation Dashboard.*
+
+---
+
 ## 🌟 Key Design Innovations for High-Impact Learning
 
 The course adheres to the WMO's requirement for "innovative and visually appealing" content by integrating two high-fidelity interactive modules:
@@ -49,7 +57,6 @@ The course adheres to the WMO's requirement for "innovative and visually appeali
 | File/Folder | Purpose |
 | :--- | :--- |
 | **`index.html`** | Course entry file for web execution (GitHub Pages) |
-| **`[Your_Course_Outline_File].pdf`** | Comprehensive Course Outline and Final Design Document |
 | **`lib/`, `assets/`** | Supporting files and resources for SCORM/Web execution |
 
 ---
